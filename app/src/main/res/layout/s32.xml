@@ -1,0 +1,116 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+     <ImageButton
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="52dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/banner" />
+     
+    <Button 
+        android:id="@+id/Campusinfo_bt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/banner"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Campusinfo_bt"/>
+    
+    <Button 
+        android:id="@+id/CampusToukou_bt"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/Campusinfo_bt"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:textSize="15sp"
+        android:background="#9CA7E2"
+        android:textColor="#FFFFFF"
+        android:text="@string/Toukou_bt"/>
+    
+    <TextView
+        android:id="@+id/Campuslist_new"
+        android:layout_width="180dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/CampusToukou_bt"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Newslist_new"/>
+    
+    
+    <Button 
+        android:id="@+id/Campuslist_ninki"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/Campuslist_new"
+        android:layout_above="@+id/lv_campus_new"
+         android:layout_marginRight="1dp"
+        android:textSize="15sp"
+        android:background="#74A9D6"
+        android:textColor="#FFFFFF"
+        android:text="@string/Newslist_ninki"/>
+    
+    <ListView 
+       android:id="@+id/lv_campus_new"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginLeft="7dp"
+       android:layout_marginRight="7dp"
+       android:background="#FAFAFA"
+       android:layout_below="@+id/Campuslist_new"
+       android:layout_above="@+id/News_bt"
+       android:entries="@array/lv_campus_new"/>
+    
+   	   
+   	<Button 
+        android:id="@+id/Link_bt"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="1dp"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Link_bt" />
+    
+     <Button 
+        android:id="@+id/Share_bt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_toLeftOf="@+id/Link_bt"
+        android:layout_toRightOf="@+id/News_bt"
+        android:layout_alignParentBottom="true"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Share_bt" />
+     
+     
+     <Button 
+        android:id="@+id/News_bt"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="1dp"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/News_bt" />
+ 
+</RelativeLayout>
+    

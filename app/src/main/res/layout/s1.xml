@@ -1,0 +1,145 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+     <ImageButton
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/banner" />
+     "
+     
+     <ImageButton
+        android:id="@+id/Mypage_bt"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/banner"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/mypage" />
+     
+    <Button 
+        android:id="@+id/News_bt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/banner"
+        android:layout_toLeftOf="@+id/Mypage_bt"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/News_bt"/>
+    
+    
+   <ListView 
+       android:id="@+id/listview1"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:background="#FAFAFA"
+       android:layout_marginLeft="7dp"
+       android:layout_marginRight="7dp"
+       android:layout_below="@+id/News_bt"/>
+   
+   
+    <Button
+        android:id="@+id/readmore_bt"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:textSize="11sp"
+        android:layout_below="@+id/listview1"
+        android:text="@string/readmore_bt"/>
+   	   
+   	
+    
+   	
+     <ImageButton
+        android:id="@+id/Bus_bt"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_below="@+id/readmore_bt"
+        android:src="@drawable/bus" />
+    
+    <ImageButton
+        android:id="@+id/Tenki_bt"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="2dp"
+        android:layout_toLeftOf="@+id/Bus_bt"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/readmore_bt"
+        android:src="@drawable/tenki" />
+    
+    <Button 
+        android:id="@+id/Campusinfo_bt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="13dp"
+        android:layout_marginRight="1dp"
+        android:layout_toLeftOf="@+id/Tenki_bt"
+        android:layout_below="@+id/readmore_bt"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Campusinfo_bt"/>
+    
+    <ListView 
+       android:id="@+id/listview2"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_weight="2"
+       android:background="#FAFAFA"
+       android:layout_marginLeft="7dp"
+       android:layout_marginRight="7dp"
+       android:layout_below="@+id/Campusinfo_bt"/>
+   
+   	
+   	<Button
+        android:id="@+id/campusreadmore_bt"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:textSize="11sp"
+        android:layout_below="@+id/listview2"
+        android:text="@string/readmore_bt"/>
+
+   	
+   	<Button 
+        android:id="@+id/Link_bt"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Link_bt" />
+     
+     <Button 
+        android:id="@+id/Share_bt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/Link_bt"
+        android:layout_marginRight="1dp"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Share_bt" />
+     
+    
+     
+</RelativeLayout>
+    

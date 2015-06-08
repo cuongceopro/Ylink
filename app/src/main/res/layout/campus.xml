@@ -1,0 +1,161 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+     <ImageButton
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="52dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/banner" />
+     
+    <Button 
+        android:id="@+id/Campusinfo_bt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/banner"
+         android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Campusinfo_bt"/>
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:layout_below="@+id/Campusinfo_bt"
+        android:background="#F5F5F5"
+        android:orientation="vertical">
+    
+    <TextView
+        android:id="@+id/tema_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="13sp"
+        android:background="#74A9D6"
+        android:textColor="#FFFFFF"/>
+    
+    <TextView
+        android:id="@+id/naiyou"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"/>
+    
+     <Button 
+        android:id="@+id/readnews_bt"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:textSize="13sp"
+        android:background="#9CA7E2"
+        android:textColor="#FFFFFF"
+        android:text="@string/readnews_bt" />
+     
+     <EditText 
+        android:id="@+id/edt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="11sp"/>
+     
+     <RelativeLayout 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+     
+     <Button 
+        android:id="@+id/comment_bt"
+        android:layout_width="100dp"
+        android:layout_height="25dp"
+        android:layout_alignParentRight="true"
+        android:textSize="13sp"
+        android:background="#9CA7E2"
+        android:textColor="#FFFFFF"
+        android:text="@string/comment_bt" />
+    
+     <Button 
+        android:id="@+id/Like_bt"
+        android:layout_width="100dp"
+        android:layout_height="25dp"
+        android:layout_alignParentLeft="true"
+        android:textSize="13sp"
+        android:background="#9CA7E2"
+        android:textColor="#FFFFFF"
+        android:text="@string/Like_bt" />
+     </RelativeLayout>
+     
+    <TextView
+        android:id="@+id/comment"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginTop="3dp"
+        android:gravity="center"
+        android:textSize="13sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/comment"/>
+    
+    <ScrollView 
+       android:layout_width="match_parent"
+       android:layout_height="400dp"
+       android:layout_below="@+id/comment"
+       android:layout_above="@+id/Campusinfo_bt">
+       
+    <TextView
+        android:id="@+id/comment_text"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_alignParentLeft="true"
+        android:textSize="13sp"/>
+    </ScrollView>
+    
+    </LinearLayout>
+    
+    
+   
+    
+   	
+   	<Button 
+        android:id="@+id/Link_bt"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="1dp"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Link_bt" />
+    
+     <Button 
+        android:id="@+id/Share_bt"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_toLeftOf="@+id/Link_bt"
+        android:layout_toRightOf="@+id/News_bt"
+        android:layout_alignParentBottom="true"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/Share_bt" />
+     
+     
+     <Button 
+        android:id="@+id/News_bt"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="1dp"
+        android:textSize="15sp"
+        android:background="#1987E5"
+        android:textColor="#FFFFFF"
+        android:text="@string/News_bt" />
+</RelativeLayout>
+    

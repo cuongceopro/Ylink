@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="example.android.ylink"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/myicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".S1Activity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".S2Activity" >
+        </activity>
+        <activity android:name=".S3Activity" >
+        </activity>
+        <activity android:name=".S4Activity" >
+        </activity>
+        <activity android:name=".S5Activity" >
+        </activity>
+        <activity android:name=".S6Activity" >
+        </activity>
+        <activity android:name=".NewsActivity" >
+        </activity>
+        <activity android:name=".BusActivity" >
+        </activity>
+        <activity android:name=".CampusActivity" >
+        </activity>
+        <activity android:name=".S22Activity" >
+        </activity>
+        <activity android:name=".ToukouNewsActivity" >
+        </activity>
+        <activity android:name=".S32Activity" >
+        </activity>
+        <activity android:name=".ToukouCampusActivity" >
+        </activity>
+        <activity android:name=".S62Activity" >
+        </activity>
+        <activity android:name=".S41Activity" >
+        </activity>
+        <activity android:name=".S42Activity" >
+        </activity>
+        <activity android:name=".S43Activity" >
+        </activity>
+        <activity android:name=".S44Activity" >
+        </activity>
+        <activity android:name=".S45Activity" >
+        </activity>
+        <activity android:name=".ShareImageActivity" >
+        </activity>
+        <activity android:name=".BusImageActivity" >
+        </activity>
+        <activity
+            android:name=".KakomonActivity" >
+        </activity>
+        <activity
+            android:name=".Shougakukin">
+        </activity>
+         <activity
+            android:name=".Upload">
+        </activity>
+    </application>
+
+</manifest>

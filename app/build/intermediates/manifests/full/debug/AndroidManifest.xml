@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="example.android.ylink"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/myicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="example.android.ylink.S1Activity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="example.android.ylink.S2Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.S3Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.S4Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.S5Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.S6Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.NewsActivity" >
+        </activity>
+        <activity android:name="example.android.ylink.BusActivity" >
+        </activity>
+        <activity android:name="example.android.ylink.CampusActivity" >
+        </activity>
+        <activity android:name="example.android.ylink.S22Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.ToukouNewsActivity" >
+        </activity>
+        <activity android:name="example.android.ylink.S32Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.ToukouCampusActivity" >
+        </activity>
+        <activity android:name="example.android.ylink.S62Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.S41Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.S42Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.S43Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.S44Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.S45Activity" >
+        </activity>
+        <activity android:name="example.android.ylink.ShareImageActivity" >
+        </activity>
+        <activity android:name="example.android.ylink.BusImageActivity" >
+        </activity>
+        <activity android:name="example.android.ylink.KakomonActivity" >
+        </activity>
+        <activity android:name="example.android.ylink.Shougakukin" >
+        </activity>
+        <activity android:name="example.android.ylink.Upload" >
+        </activity>
+    </application>
+
+</manifest>

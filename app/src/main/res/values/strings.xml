@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ylink</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="lv_news">
+        <item>ＴＰＰ、終局が明確になりつつある</item>
+        <item>ぎこちない握手も思惑通り</item>
+        <item>＜ＴＰＰ首脳会合＞合意時期示せず</item>
+        <item>御嶽山噴火</item>
+        <item>遺伝子操作で青い光がバナナの匂いに？</item>
+        <item>日中首脳、火種抱え「関係改善へ努力」</item>
+        <item>習近平主席の主催で夕食会、ＡＰＥＣが実質開幕</item>
+        <item>原点に立ち戻って関係改善する第一歩＝日中首脳会談で安倍首相</item>
+        <item>楽天が出版取次｢大阪屋｣に出資する事情</item>
+        <item>政治家の「やらせ清掃」に批判集中、インド</item>
+        <item>衝突事故の羽生選手、試合出場させるべきだったのか？ 疑問の声も</item>
+        <item>早期解散の見方広がる＝消費税判断後「１９日にも」―政府・与党</item>
+        <item>モスクワに「地獄の門」開く？ 悪臭たれこめ苦情殺到</item>
+        <item>軍事目的オンリーの中国とはモノが違う日本の宇宙技術…</item>
+        <item>エボラ疑いの発熱、厚労省「絶対に医療機関行かないで</item>
+    </string-array>
+    <string-array name="lv_like">
+        <item>政治家の「やらせ清掃」に批判集中、インド</item>
+        <item>履修登録の締き切が迫っています</item>
+        <item>衝突事故の羽生選手、試合出場させるべきだったのか？ 疑問の声も</item>
+        <item>国費国内採用の募集が公開しました！</item>
+        <item>モスクワに「地獄の門」開く？ 悪臭たれこめ苦情殺到</item>
+        <item>「ROUTEプロジェクト」成果発表会を開催しました</item>
+        <item>遺伝子操作で青い光がバナナの匂いに？</item>
+        <item>横浜弁当が本日の17時まで全品100円引き!</item>
+        <item>習近平主席の主催で夕食会、ＡＰＥＣが実質開幕</item>
+        <item>ベトナムサッカーチームが交流相手を探している</item>
+        <item>楽天が出版取次｢大阪屋｣に出資する事情</item>
+        <item>Y－LINKが誕生！！！まずは検索！！！</item>
+        <item>ぎこちない握手も思惑通り　会談したことに「最大の意味」</item>
+        <item>ついに、OFFICEが配布された！！！</item>
+        <item>御嶽山噴火</item>
+    </string-array>
+    <string-array name="lv_toukou">
+        <item>早期解散の見方広がる＝消費税判断後「１９日にも」―政府・与党</item>
+        <item>学内の日本語スピーチコンテスト！！！</item>
+        <item>軍事目的オンリーの中国とはモノが違う日本の宇宙技術…</item>
+        <item>今年のハロウィンは学内に何かあるかな？</item>
+        <item>日中首脳、２年半ぶり会談　火種抱え「関係改善へ努力」</item>
+        <item>今週の木曜日英会話の練習を行います</item>
+        <item>政治家の「やらせ清掃」に批判集中、インド</item>
+        <item>履修登録の締き切が迫っています</item>
+        <item>衝突事故の羽生選手、試合出場させるべきだったのか？ 疑問の声も</item>
+        <item>ベトナムサッカーチームが交流相手を探している</item>
+        <item>楽天が出版取次｢大阪屋｣に出資する事情</item>
+        <item>Y－LINKが誕生！！！まずは検索！！！</item>
+        <item>ぎこちない握手も思惑通り　会談したことに「最大の意味」</item>
+        <item>ついに、OFFICEが配布された！！！</item>
+        <item>御嶽山噴火</item>
+    </string-array>
+    
+    
+    <string-array name="lv_news_new">
+        <item>日中首脳、火種抱え「関係改善へ努力」</item>
+        <item>習近平主席の主催で夕食会、ＡＰＥＣが実質開幕</item>
+        <item>原点に立ち戻って関係改善する第一歩＝日中首脳会談で安倍首相</item>
+        <item>楽天が出版取次｢大阪屋｣に出資する事情</item>
+        <item>政治家の「やらせ清掃」に批判集中、インド</item>
+        <item>ＴＰＰ、終局が明確になりつつある</item>
+        <item>ぎこちない握手も思惑通り</item>
+        <item>＜ＴＰＰ首脳会合＞合意時期示せず</item>
+        <item>御嶽山噴火</item>
+        <item>遺伝子操作で青い光がバナナの匂いに？</item>
+        <item>衝突事故の羽生選手、試合出場させるべきだったのか？ 疑問の声も</item>
+        <item>早期解散の見方広がる＝消費税判断後「１９日にも」―政府・与党</item>
+        <item>モスクワに「地獄の門」開く？ 悪臭たれこめ苦情殺到</item>
+        <item>軍事目的オンリーの中国とはモノが違う日本の宇宙技術…</item>
+    </string-array>
+    <string-array name="lv_campus">
+        <item>Y－LINKが誕生！！！まずは検索！！！</item>
+        <item>学生アプリコンテスト(賞品5万円も!!!)</item>
+        <item>ついに、OFFICEが配布された！！！</item>
+        <item>英語の会話練習のお願い!!!</item>
+        <item>今年のハロウィンは学内に何かあるかな？</item>
+        <item>横浜弁当が本日の17時まで全品100円引き!</item>
+        <item>今週の木曜日英会話の練習を行います</item>
+        <item>ベトナムサッカーチームが交流相手を探している</item>
+        <item>理工学部 都市基盤EPチームが入賞</item>
+        <item>深夜の原付がすごくうるさい!!</item>
+        <item>履修登録の締き切が迫っています</item>
+        <item>YNU NEWS が月曜から出版</item>
+        <item>国費国内採用の募集が公開しました！</item>
+        <item>学内の日本語スピーチコンテスト！！！</item>
+        <item>「ROUTEプロジェクト」成果発表会を開催しました</item>
+    </string-array>
+    <string-array name="lv_campus_new">
+        <item>横浜弁当が本日の17時まで全品100円引き!</item>
+        <item>今週の木曜日英会話の練習を行います</item>
+        <item>ベトナムサッカーチームが交流相手を探している</item>
+        <item>理工学部 都市基盤EPチームが入賞</item>
+        <item>深夜の原付がすごくうるさい!!</item>
+        <item>Y－LINKが誕生！！！まずは検索！！！</item>
+        <item>学生アプリコンテスト(賞品5万円も!!!)</item>
+        <item>ついに、OFFICEが配布された！！！</item>
+        <item>英語の会話練習のお願い!!!</item>
+        <item>今年のハロウィンは学内に何かあるかな？</item>
+        <item>履修登録の締き切が迫っています</item>
+        <item>YNU NEWS が月曜から出版</item>
+        <item>国費国内採用の募集が公開しました！</item>
+        <item>学内の日本語スピーチコンテスト！！！</item>
+        <item>「ROUTEプロジェクト」成果発表会を開催しました</item>
+    </string-array>
+    <string-array name="lv_kakomonimage">
+        <item>日本国憲法ー2006</item>
+        <item>基礎化学I期末試験ー2013ー栗原</item>
+        <item>現代経済Aー2013期末ー亀卦川</item>
+        <item>線形代数Ⅰー2008ー伊澤</item>
+        <item>統計Ⅱー20081</item>
+        <item>統計Ⅱー20082</item>
+        <item>統計Ⅱー20083</item>
+        <item>マーケティング論1</item>
+        <item>マーケティング論2</item>
+        <item>国民会計論ー2007－大森</item>
+        <item>計算機アーキテクチャ期末ー2012松本1</item>
+        <item>計算機アーキテクチャ期末ー2012松本2</item>
+        <item>熱力学期末ー2012後期ー野村1</item>
+        <item>熱力学期末ー2012後期ー野村2</item>
+        <item>材料力学I －H21中間試験解答</item>
+        <item>微分積分Iー2006ー平田1</item>
+        <item>微分積分Iー2006ー平田2</item>
+        <item>微分積分Iー2006ー平田3</item>
+        <item>微分積分Iー2006ー平田4</item>
+        <item>物理学Aー2006ー鈴木</item>
+        <item>流体力学ーH20期末1</item>
+        <item>流体力学ーH20期末2</item>
+    </string-array>
+    <string-array name="lv_baito">
+        <item>生協－家庭教師</item>
+        <item>セブンイレブン－横浜保土ヶ谷公園前店</item>
+        <item>ちよだ鮨(A)スマイルストリート瀬谷店(B)和田町駅前店</item>
+        <item>笑笑－和田町南口駅前店</item>
+        <item>ガスト－10店舗合同募集</item>
+        <item>セブンイレブン－星川西店</item>
+        <item>グラッチェガーデンズ－三ツ沢店</item>
+        <item>ジョナサン－横浜鶴屋町店</item>
+        <item>ガスト－星川駅前店</item>
+        <item>バーミヤン－星川駅前店</item>
+        <item>ジョナサン－上星川店</item>
+        <item>セブンイレブン－横浜峰沢町店</item>
+        <item>銀のさら・釜寅 横浜星川店</item>
+        <item>サークルK－釜台町店</item>
+        <item>焼メシ＆焼スパ金太郎－太洋観光株式会社</item>
+    </string-array>
+    <string-array name="lv_heya">
+        <item>ＢＲＩＣＫＳ 101【相鉄本線 和田町駅 徒歩5分】</item>
+        <item>Ｍ ｇｒａｎｄｅｕｒ【相鉄本線 和田町駅 徒歩7分】</item>
+        <item>ウィステリア三ツ沢【横浜市営地下鉄ブルーライン 三ツ沢上町駅 徒歩7分】</item>
+        <item>ウエストウイングII 201【相鉄本線 上星川駅 徒歩11分】</item>
+        <item>グリシーナ・ステラ 203【横浜市営地下鉄ブルーライン 三ツ沢上町駅 徒歩10分】</item>
+        <item>サンヒルズ上星川 102【相鉄本線 上星川駅 徒歩3分】</item>
+        <item>トライヒルズ2 104【相鉄本線 和田町駅 徒歩3分】</item>
+        <item>ドリームコート上星川Ａ棟 2D【相鉄本線 上星川駅 徒歩3分】</item>
+        <item>トレビアーノの調べ【相鉄本線 上星川駅 徒歩3分】</item>
+        <item>ノワール三ッ沢【横浜市営地下鉄ブルーライン 三ツ沢上町駅 徒歩7分】</item>
+        <item>フォレストパーク上星川II 102【相鉄本線 上星川駅 徒歩6分】</item>
+        <item>ユナイト和田町ロートレック・オペラ 101【相鉄本線 和田町駅 徒歩2分】</item>
+        <item>横浜市営地下鉄ブルーライン 三ツ沢上町駅 徒歩7分</item>
+        <item>相鉄本線 和田町駅 徒歩3分</item>
+        <item>相鉄本線 和田町駅 徒歩5分</item>
+    </string-array>
+   <string-array name="lv_file">
+        <item>寮での留学生向けのParty</item>
+        <item>入学料・学費免除の種類提出の締め切り</item>
+        <item>就活説明会についてのお知らせ</item>
+        <item>横国大での日本人の学生と留学生とのサッカー交流大会</item>
+        <item>嵐グループが横国大に来る</item>
+        <item>英語を練習したい方はこちらにどうぞ</item>
+        <item>生協でのBig sale</item>
+        <item>学内での国際交流文芸</item>
+        <item>日本語を練習したい留学生はこちらにどうぞ</item>
+        <item>食堂での特別なメニューの最後の日</item>
+        <item>横国大でのテニス大会</item>
+        <item>海外での交流プログラムの募集について</item>
+        <item>この間、忘れ物がある方</item>
+        <item>学内での学生の交流会</item>
+        <item>冷蔵庫がいる方</item>
+    </string-array>
+    
+    <string-array name="lv_shougakukin">
+        <item>JASSO支援金 （自然災害被災者対象）</item>
+        <item>ＪＴアジア奨学金</item>
+        <item>ヤマハ音楽支援制度</item>
+        <item>ヨネックススポーツ振興財団</item>
+        <item>公益財団法人似鳥国際奨学財団</item>
+        <item>川嶋章司記念スカラーシップ基金</item>
+        <item>本庄国際奨学財団奨学金</item>
+        <item>留山田長満奨学生</item>
+        <item>JASSO支援金（自然災害被災者対象)</item>
+        <item>ヤマハ音楽支援制度</item>
+        <item>ヨネックス・スポーツ振興財団</item>
+        <item>交通遺児育英会</item>
+        <item>山田長満奨学生</item>
+        <item>石川県育英資金（緊急採用）</item>
+        <item>本庄国際奨学財団</item>
+    </string-array>
+    
+    <string name="News_bt">News</string>
+    <string name="Mypage_bt">Mypage</string>
+    <string name="news_1">News 1</string>
+    <string name="news_2">News 2</string>
+    <string name="news_3">News 3</string>
+    <string name="news_4">News 4</string>
+    <string name="news_5">News 5</string>
+    <string name="news_6">News 6</string>
+    <string name="news_7">News 7</string>
+    <string name="news_8">News 8</string>
+    <string name="news_9">News 9</string>
+    <string name="news_10">News 10</string>
+    <string name="news_11">News 11</string>
+    <string name="news_12">News 12</string>
+    <string name="news_13">News 13</string>
+    <string name="news_14">News 14</string>
+    <string name="news_15">News 15</string>
+    <string name="readmore_bt">Readmore</string>
+    <string name="Bus_bt">Bus</string>
+    <string name="Tenki_bt">Tenki</string>
+    <string name="Campusinfo_bt">Campus info</string>
+    <string name="campusnews_1">Campus News 1</string>
+    <string name="campusnews_2">Campus News 2</string>
+    <string name="campusnews_3">Campus News 3</string>
+    <string name="campusnews_4">Campus News 4</string>
+    <string name="campusnews_5">Campus News 5</string>
+    <string name="campusnews_6">Campus News 6</string>
+    <string name="campusnews_7">Campus News 7</string>
+    <string name="campusnews_8">Campus News 8</string>
+    <string name="campusnews_9">Campus News 9</string>
+    <string name="campusnews_10">Campus News 10</string>
+    <string name="campusnews_11">Campus News 11</string>
+    <string name="campusnews_12">Campus News 12</string>
+    <string name="campusnews_13">Campus News 13</string>
+    <string name="campusnews_14">Campus News 14</string>
+    <string name="campusnews_15">Campus News 15</string>
+    <string name="Link_bt">Link</string>
+    <string name="Share_bt">Share</string>
+    <string name="title_activity_s2">S2Activity</string>
+    <string name="title_activity_s3">S3Activity</string>
+    <string name="title_activity_s4">S4Activity</string>
+    <string name="baito_text">バイト</string>
+    <string name="kakomon_text">過去問</string>
+    <string name="shougakukin_text">奨学金</string>
+    <string name="other_text">その他</string>
+    <string name="heya_text">部屋探し</string>
+    <string name="title_activity_s5">S5Activity</string>
+    <string name="YNUhome_text">YNUホームページ</string>
+    <string name="kiban_text">情報基盤センター</string>
+    <string name="OPAC_text">OPAC</string>
+    <string name="shienka_text">学生支援課</string>
+    <string name="ryugakusei_text">留学生センター</string>
+    <string name="shirabasu_text">シラバス</string>
+    <string name="title_activity_s6">S6Activity</string>
+    <string name="ruisekipt">累積ポイント: 1250pt</string>
+    <string name="kongetsupt">今月のポイント: 260pt</string>
+    <string name="Likerekishi">Like歴史</string>
+    <string name="Toukourekishi">投稿歴史</string>
+    <string name="Toukou_bt">投稿</string>
+    <string name="Newslist_ninki">人気記事</string>
+    <string name="Newslist_new">新しい記事</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="tema">テーマ:</string>
+    <string name="comment">コメント</string>
+    <string name="comment_bt">コメントを書く</string>
+    <string name="readnews_bt">記事を読む</string>
+    <string name="Like_bt">Like</string>
+    <string name="title_activity_bus">BusActivity</string>
+    <string name="basho">場所を選んでください!</string>
+
+    <string-array name="basho_lv">
+        <item>横浜国立正門前</item>
+        <item>国大西</item>
+        <item>国大中央</item>
+        <item>国大南門</item>
+        <item>国大北</item>
+        <item>大学会館前</item>
+    </string-array>
+
+    <string name="title_activity_campus">CampusActivity</string>
+    <string name="title_activity_s22">S22Activity</string>
+    <string name="title_activity_toukou_news">ToukouNewsActivity</string>
+    <string name="tema_nyuryoku">テーマ：</string>
+    <string name="link_nyuryoku">リンク：</string>
+    <string name="comment_nyuryoku">コメント：</string>
+    <string name="title_activity_s32">S32Activity</string>
+    <string name="title_activity_toukou_campus">ToukouCampusActivity</string>
+    <string name="title_activity_s62">S62Activity</string>
+    <string name="title_activity_s41">S41Activity</string>
+    <string name="upload_bt">ファイルをアップロード</string>
+    <string name="title_activity_s42">S42Activity</string>
+    <string name="title_activity_s43">S43Activity</string>
+    <string name="title_activity_s44">S44Activity</string>
+    <string name="title_activity_s45">S45Activity</string>
+    <string name="title_activity_share_image">ShareImageActivity</string>
+    <string name="title_activity_bus_image">BusImageActivity</string>
+    <string name="kaisha">赤：相鉄バス　　黒：市営バス</string>
+    <string name="title_activity_s401">S401Activity</string>
+    <string name="kakomon_komoku">選んでください!</string>
+
+   <string-array name="lv_kakomon">
+        <item>一般教養</item>
+        <item>教育</item>
+        <item>経営</item>
+        <item>経済</item>
+        <item>理工</item>
+    </string-array>
+
+    <string-array name="lv_shougakukinkomoku">
+        <item>日本人</item>
+        <item>外国人</item>
+    </string-array>
+   
+    <string name="title_activity_kakomon">KakomonActivity</string>
+    <string name="tempu">ファイルを添付</string>
+    <string name="readlink">関連情報を閲覧する</string>  
+</resources>
